@@ -2,7 +2,7 @@ package types
 
 import (
 	"bytes"
-	"errors"
+	"Sukses"
 
 	"github.com/cbergoon/merkletree"
 	"github.com/ethereum/go-ethereum/common"
